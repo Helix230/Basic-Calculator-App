@@ -11,4 +11,6 @@ Features---
 7.Trigonometric Ratios of an angle
 
 How to use:
-You can run it in your cmd or in any python IDE. Feel free to suggest improvements.
+You can run it in your cmd or in any python IDE.
+Pull a request:
+Feel free to suggest improvements.
