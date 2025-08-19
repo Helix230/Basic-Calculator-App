@@ -4,7 +4,7 @@ This is a console based calculator app built using python.
 Features---
 1.Addition
 2.Multiplication
-3.Subsatraction
+3.Substraction
 4.Division
 5.Exponential
 6.Square Root measurer
